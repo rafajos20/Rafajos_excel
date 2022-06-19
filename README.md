@@ -32,16 +32,20 @@ The biggest challenge for me was to write the analysis use the GitHub.
 ###3.Results:###
 ---
 Answer the following questions in complete and coherent sentences.
+
 ####o	What are two conclusions you can draw about the Theater Outcomes by Launch Date?####
 ---
 The first conclusion reveals the most important months to launch campaigns, specifically May being the month with the highest number of campaigns, as well as successful campaigns and failed campaigns, followed in second place by June.  These two months are the best option if the company decides to launch campaigns. 
 The second conclusion reveals that December as the worst month to launch campaigns.  In December 36 successful campaigns and 35 failed campaigns make this month the worst option for launching campaigns.
+
 ####o	What can you conclude about the Outcomes based on Goals?####
 ---
 The projects with a goal up to 9999 are most successful and register the highest number of projects, and the projects with a goal between 25000 to 34999 are more likely to fail. Projects with a goal of 45000 to 49999 have the highest percentile to fail because in the last years the company didn’t register information about them or don’t start projects with this goal. 
+
 ####o	What are some limitations of this dataset?####
 ---
 The possible limitations are about the dataset is it needs to be converted and delimited or split into columns if you want to analyze this information, which may cause errors and miss portions of data. 
+
 ####o	What are some other possible tables and/or graphs that we could create?####
 ---
 We can create graphs about the different parent category and subcategory, in relation to the date, filter in a determine lapse of time or group it by months. Other options could sort by a country or specific year to show the result and select a specific kind of money denomination would be another option to create a graph. Also the data could be graphed separately for successful, failed or canceled campaigns. 
