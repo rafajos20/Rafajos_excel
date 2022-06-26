@@ -49,3 +49,7 @@ The possible limitations are about the dataset is it needs to be converted and d
 ####o	What are some other possible tables and/or graphs that we could create?####
 ---
 We can create graphs about the different parent category and subcategory, in relation to the date, filter in a determine lapse of time or group it by months. Other options could sort by a country or specific year to show the result and select a specific kind of money denomination would be another option to create a graph. Also the data could be graphed separately for successful, failed or canceled campaigns. 
+
+git status
+git add
+git commit
