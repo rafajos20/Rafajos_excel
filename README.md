@@ -5,8 +5,8 @@ challenge week one
 ###module 1###
 ---
 
-###1.	Overview of Project: Explain the purpose of this analysis.###
----
+**1.	Overview of Project: Explain the purpose of this analysis.**
+
 The purpose of this analysis is to determine which projects are most feasible and what is the right time to start them based on the evaluation of percentage of successful and failed campaigns in relation to goals in a prescribed amount of time
 
 ###2.Analysis and Challenges:###
