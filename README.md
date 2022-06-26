@@ -2,19 +2,19 @@
 # kickstarter-analysis
 challenge week one
 ---
-###module 1###
+*module 1*
 ---
 
 **1.	Overview of Project: Explain the purpose of this analysis.**
 
 The purpose of this analysis is to determine which projects are most feasible and what is the right time to start them based on the evaluation of percentage of successful and failed campaigns in relation to goals in a prescribed amount of time
 
-###2.Analysis and Challenges:###
----
+**2.Analysis and Challenges:**
+
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
-####Delivery 1:####
----
+Delivery 1:
+
 The first step was to classify the “Outcomes” column with different colors based on the campaign status, and then split or delimited the category and subcategory in two columns one for “Parents Category” and the another for “Subcategory” using the “text to columns”.
 The second step used the information from the column “Launched_at” to extract the launch date and subsequently I  used the function YEAR() to obtain the year for each campaign and created a new column just for the year.
 Next, creation of the pivot table required using all the data, filtered by “Parent Category” and “Years”.  The rows in the pivot table take the date converted from the “Launched_at” and columns use “Outcomes”, for the values is defined for count of outcomes.
